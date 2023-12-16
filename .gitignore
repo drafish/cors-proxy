@@ -1,2 +1,5 @@
 node_modules
 isomorphic-git-cors-proxy-0.0.0-development.tgz
+package-lock.json
+yarn.lock
+cors-proxy.pid
